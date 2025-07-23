@@ -1,1 +1,1 @@
-# DHGNN-DDI
+We are committed to making the code openly available upon the acceptance of our manuscript. We appreciate your interest and encourage you to check back for updates. If you have any questions or need further information, please feel free to reach out to us.
